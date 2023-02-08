@@ -7,3 +7,7 @@ Zmiana w kodzie
     }
 
 dsdsdsdsdsd
+
+Chcę coś zmienić w tym pliu
+
+linijka do wycofania
