@@ -2,15 +2,5 @@
         System.out.println("Podaj użytkownika");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-}
-public void logowanie za pomocą Microsoft() {
-        System.out.println("Podaj login Microsoft");
-        System.out.println("Podaj hasło");
-        System.out.println("Kliknij na przycisk zaloguj");
-
-public void logowanie za pomocą Google() {
-        System.out.println("Podaj konto Gmail");
-        System.out.println("Podaj hasło");
-        System.out.println("Kliknij na przycisk zaloguj");
 
     }
