@@ -23,3 +23,6 @@ public void przypomninenie hasła() {
         System.out.println("Kliknij na przycisk przypomnij hasło");
 
   }
+  
+  Zmiana taka z dupy
+  
